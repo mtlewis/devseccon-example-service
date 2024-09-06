@@ -1,0 +1,5 @@
+{
+  "name": "example-service",
+  "private": true,
+  "dependencies": {}
+}
