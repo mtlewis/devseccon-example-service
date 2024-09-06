@@ -6,3 +6,6 @@ spec:
   type: service
   owner: user:guest
   lifecycle: experimental
+annotations:
+  snyk.io/org-id: a964ca47-9951-438c-90d2-d1c31307166b
+  snyk.io/project-ids: 201230a2-d6de-4278-81a9-d413003ff172
