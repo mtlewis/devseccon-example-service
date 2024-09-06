@@ -2,6 +2,7 @@
   "name": "example-service",
   "private": true,
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "knex": "1.0.7"
   }
 }
